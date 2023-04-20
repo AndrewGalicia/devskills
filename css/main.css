@@ -1,0 +1,24 @@
+* {
+    height: 100%;
+    width: auto;
+}
+
+body {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    border: solid 
+}
+
+header {
+    display: flex;
+    flex-direction: ;
+    
+}
+#language {
+    
+#add-skill {
+    
+}
